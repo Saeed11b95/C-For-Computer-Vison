@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/saeed/C_Practice/biuld",
+  "command": "/usr/bin/c++    -o CMakeFiles/tool.dir/tool.cpp.o -c /home/saeed/C_Practice/tool.cpp",
+  "file": "/home/saeed/C_Practice/tool.cpp"
+},
+{
+  "directory": "/home/saeed/C_Practice/biuld",
+  "command": "/usr/bin/c++    -o CMakeFiles/main.dir/main.cpp.o -c /home/saeed/C_Practice/main.cpp",
+  "file": "/home/saeed/C_Practice/main.cpp"
+}
+]

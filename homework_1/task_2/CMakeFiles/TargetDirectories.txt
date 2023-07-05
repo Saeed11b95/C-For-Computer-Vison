@@ -1,0 +1,4 @@
+/home/saeed/C_Practice/homework_1/task_2/CMakeFiles/arithmatics.dir
+/home/saeed/C_Practice/homework_1/task_2/CMakeFiles/main.dir
+/home/saeed/C_Practice/homework_1/task_2/CMakeFiles/edit_cache.dir
+/home/saeed/C_Practice/homework_1/task_2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarithmatics.a CMakeFiles/arithmatics.dir/src/sum.cpp.o CMakeFiles/arithmatics.dir/src/subtract.cpp.o
+/usr/bin/ranlib libarithmatics.a
