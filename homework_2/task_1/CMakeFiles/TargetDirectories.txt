@@ -1,0 +1,4 @@
+/home/saeed/C++ for Computer Vision/homework_2/task_1/CMakeFiles/my_program.dir
+/home/saeed/C++ for Computer Vision/homework_2/task_1/CMakeFiles/main.dir
+/home/saeed/C++ for Computer Vision/homework_2/task_1/CMakeFiles/edit_cache.dir
+/home/saeed/C++ for Computer Vision/homework_2/task_1/CMakeFiles/rebuild_cache.dir
