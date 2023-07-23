@@ -1,0 +1,5 @@
+/home/saeed/C++ for Computer Vision/homework_3/build/CMakeFiles/html_writer.dir
+/home/saeed/C++ for Computer Vision/homework_3/build/CMakeFiles/image_browser.dir
+/home/saeed/C++ for Computer Vision/homework_3/build/CMakeFiles/create_image_browser.dir
+/home/saeed/C++ for Computer Vision/homework_3/build/CMakeFiles/edit_cache.dir
+/home/saeed/C++ for Computer Vision/homework_3/build/CMakeFiles/rebuild_cache.dir

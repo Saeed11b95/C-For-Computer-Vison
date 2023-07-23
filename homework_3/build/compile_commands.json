@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/saeed/C++ for Computer Vision/homework_3/build",
+  "command": "/usr/bin/c++  -I\"/home/saeed/C++ for Computer Vision/homework_3/include\" -Wall -std=gnu++17 -o CMakeFiles/html_writer.dir/src/html_writer.cpp.o -c \"/home/saeed/C++ for Computer Vision/homework_3/src/html_writer.cpp\"",
+  "file": "/home/saeed/C++ for Computer Vision/homework_3/src/html_writer.cpp"
+},
+{
+  "directory": "/home/saeed/C++ for Computer Vision/homework_3/build",
+  "command": "/usr/bin/c++  -I\"/home/saeed/C++ for Computer Vision/homework_3/include\" -Wall -std=gnu++17 -o CMakeFiles/image_browser.dir/src/image_browser.cpp.o -c \"/home/saeed/C++ for Computer Vision/homework_3/src/image_browser.cpp\"",
+  "file": "/home/saeed/C++ for Computer Vision/homework_3/src/image_browser.cpp"
+},
+{
+  "directory": "/home/saeed/C++ for Computer Vision/homework_3/build",
+  "command": "/usr/bin/c++  -I\"/home/saeed/C++ for Computer Vision/homework_3/include\" -Wall -std=gnu++17 -o CMakeFiles/create_image_browser.dir/src/create_image_browser.cpp.o -c \"/home/saeed/C++ for Computer Vision/homework_3/src/create_image_browser.cpp\"",
+  "file": "/home/saeed/C++ for Computer Vision/homework_3/src/create_image_browser.cpp"
+}
+]

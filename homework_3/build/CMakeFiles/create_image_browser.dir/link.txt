@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall CMakeFiles/create_image_browser.dir/src/create_image_browser.cpp.o -o "/home/saeed/C++ for Computer Vision/homework_3/bin/create_image_browser"  "/home/saeed/C++ for Computer Vision/homework_3/lib/libhtml_writer.a" "/home/saeed/C++ for Computer Vision/homework_3/lib/libimage_browser.a" 
